@@ -20,3 +20,13 @@
 # --
 !.gitignore
 !README.md
+
+# example
+!dist/
+!dist/**/
+!dist/index.html
+!dist/wolf.png
+!dist/assets/
+!dist/assets/**/
+!dist/assets/index-BBfec5dv.css
+!dist/assets/index-Cfl0fEsv.js
