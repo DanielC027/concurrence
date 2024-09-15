@@ -1,0 +1,22 @@
+# ignore everything
+*
+
+# JUST PROYECT
+!index.html
+
+# example
+!src/
+!src/**/
+!src/main.jsx
+!src/index.css
+!src/App.jsx
+
+# example
+!public/
+!public/**/
+!public/wolf.png
+!public/example.png
+
+# --
+!.gitignore
+!README.md
