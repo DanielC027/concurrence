@@ -1,9 +1,0 @@
-# ignore everything
-*
-!.gitignore
-!index.html
-!wolf.png
-!assets/
-!assets/**/
-!assets/index-BBfec5dv.css
-!assets/index-Cfl0fEsv.js
